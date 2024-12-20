@@ -12,3 +12,6 @@ llm = ChatOpenAI(model="gpt-4o", temperature=0,api_key=os.getenv("GITHUB_TOKEN")
 
 
 this is readme file
+
+
+A Lang graph course in which 
