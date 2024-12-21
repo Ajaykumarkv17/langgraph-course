@@ -6,7 +6,7 @@
 
 [Link to get your own github token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
 
-If you don't have OpenAI keys then this is a good idea
+If you don't have OpenAI keys then this will be great idea
 
 ```python
 llm = ChatOpenAI(model="gpt-4o", temperature=0,api_key=os.getenv("GITHUB_TOKEN"),base_url="https://models.inference.ai.azure.com")
