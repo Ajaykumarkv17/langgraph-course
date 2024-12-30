@@ -2,7 +2,7 @@
 
 ## To Access the OpenAI LLM 
 
-### Get the API key from github Models 
+### Get the API key from github Models Platform
 
 [Link to get your own github token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
 
