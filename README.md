@@ -1,4 +1,4 @@
-# langgraph-course
+# Langgraph-course
 
 ## To Access the OpenAI LLM 
 
