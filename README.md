@@ -1,6 +1,6 @@
 # Langgraph-course
 
-## To Access the OpenAI LLM or any LLM that is provided
+## To Access the OpenAI LLM or any LLM that is provided by Github Models
 
 ### Get the API key from github Models Platform
 
