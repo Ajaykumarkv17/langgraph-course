@@ -1,8 +1,8 @@
-# langgraph-course
+# Langgraph-course
 
-## To Access the OpenAI LLM 
+## To Access the OpenAI LLM or any LLM that is provided by Github Models
 
-### Get the API key from github
+### Get the API key from github Models Platform
 
 [Link to get your own github token](https://docs.github.com/en/authentication/keeping-your-account-and-data-secure/managing-your-personal-access-tokens)
 
@@ -16,4 +16,4 @@ llm = ChatOpenAI(model="gpt-4o", temperature=0,api_key=os.getenv("GITHUB_TOKEN")
 this is readme file
 
 
-A Lang graph course in which you will learn how to use and build langraph to build Agentic Applications and deploy scalable
+A Lang graph course in which you will learn how to use and build langraph to build Agentic Applications and deploy scalable GenAI Applications
